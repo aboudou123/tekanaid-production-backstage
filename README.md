@@ -37,6 +37,12 @@ Changes pushed to this repo will be discovered by Backstage within a few minutes
 
 <img width="686" height="432" alt="5b" src="https://github.com/user-attachments/assets/540d229d-2c16-463d-af5c-f05bcfc04df1" />
 
+<img width="869" height="401" alt="3b" src="https://github.com/user-attachments/assets/9c2eb065-c0f8-475f-b8b8-c61be7ac529b" />
+
+<img width="858" height="440" alt="1" src="https://github.com/user-attachments/assets/d0a6ca62-52e4-4ada-b493-36b780d8f762" />
+
+
+
 
 
 
