@@ -31,15 +31,12 @@ Changes pushed to this repo will be discovered by Backstage within a few minutes
 
 <img width="849" height="516" alt="6d" src="https://github.com/user-attachments/assets/8f25c0e6-5997-4da3-a7d9-3a896990f2aa" />
 
-<img width="862" height="549" alt="10d" src="https://github.com/user-attachments/assets/bec4482e-09ad-4cc7-965a-8110f54daba7" />
-
 <img width="849" height="516" alt="6d" src="https://github.com/user-attachments/assets/efc3ea5d-0b02-41e3-87b9-cd637b4cd234" />
 
-<img width="686" height="432" alt="5b" src="https://github.com/user-attachments/assets/540d229d-2c16-463d-af5c-f05bcfc04df1" />
+<img width="862" height="549" alt="10d" src="https://github.com/user-attachments/assets/bec4482e-09ad-4cc7-965a-8110f54daba7" />
 
 <img width="869" height="401" alt="3b" src="https://github.com/user-attachments/assets/9c2eb065-c0f8-475f-b8b8-c61be7ac529b" />
 
-<img width="858" height="440" alt="1" src="https://github.com/user-attachments/assets/d0a6ca62-52e4-4ada-b493-36b780d8f762" />
 
 
 
